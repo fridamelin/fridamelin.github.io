@@ -14,7 +14,9 @@ categories: jekyll update
 </ul>
 <p>Det är bra! Man behöver inte upprepa koden och det blir en bättre struktur bland filerna.<br>
 Det blir även lättare att läsa CSS filerna när de är kortare.<br>
-Nackdelen med det tycker jag är att det blir lite rörigt, man vet inte vilken CSS-fil som tillhör vilken HTML-fil.</p>
+Nackdelen med det tycker jag är att det blir lite rörigt med många olika CSS filer när jag är van vid att arbeta endast i en.
+Teknikerna jag har använt är de olika variablerna i CSS koden, vilket gör att man inte behöver upprepa koden.
+</p>
 
 <b>Vad tycker du om statiska sidor?</b>
 <ul>
@@ -37,3 +39,14 @@ Jag har lagt in det så att jag har tillåtit sökmotorn Google men uteslutit de
 <p>Humans.txt används för att besökaren på webbplatsen ska veta vem eller vilka det är som har gjort<br> sidan.
 I min textfil Humans.txt finns det vem det är som har gjort sidan, kontakt och vart jag är ifrån.<br>
 Det finns även med när sidan sist uppdaterades, vilket kan vara intressant för besökaren.</p>
+
+<b>Hur har du lagt in kommentarer till din blogginlägg?</b>
+
+<p>Med hjälp av sidan DISQUS gjorde jag så man kunde kommentera på blogginläggen. <br>
+I början av varje blogginlägg läggs det in "comments" = <i>true</i>, om de ska vara tillåtet att kommentera. <br>
+Annars sätts det till <i>false</i>.</p>
+
+<b>Vad är "Open Graph" och hur använder du det?</b>
+<p>Det används för att man ska kunna dela webbsidan på sociala medier. <br>
+Jag har lagt in det i head.html. Där fyllde jag även i vilken bild jag ville skulle synas, <br>
+vilken webbsida det skulle länkas till och annat som är viktigt att veta. </p>

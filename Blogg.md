@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blogg
+title: Blogginlägg
 permalink: /Blogg/
 ---
 

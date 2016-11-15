@@ -1,0 +1,16 @@
+---
+layout: post
+comments: true
+title:  "Välkommen"
+date:   2016-11-14 08:11:29
+categories: jekyll update
+---
+
+<p>Hej och välkommen till min webbsida!
+Just under den här fliken hittar ni blogginlägg, men ni kan även läsa
+om vem jag är samt hitta kontaktuppgifter till mig.
+
+I bloggibläggen kommer det komma upp frågeställningar om sådant som jag
+sysslar med om dagarna. Samt om vad som händer i mitt liv.
+Ha det bra!
+/Frida </p>

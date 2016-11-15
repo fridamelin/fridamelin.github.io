@@ -1,7 +1,0 @@
----
-layout: post
-comments: true
-title:  "Välkommen!"
-date:   2016-11-14 10:48:26
-categories: jekyll update
----

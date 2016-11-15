@@ -8,8 +8,8 @@ description: Copyright © Frida Melin 2016
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  fm222gn
+twitter_username:
+github_username:  fridamelin
 
 # Build settings
 markdown: kramdown

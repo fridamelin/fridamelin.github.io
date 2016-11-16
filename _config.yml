@@ -7,9 +7,10 @@ description: Copyright © Frida Melin 2016
 
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://fridamelin.github.io
+url: "http://fridamelin.github.io"
 twitter_username: MelinFrida
 github_username:  fridamelin
+facebook_username: fridamelin
 
 # Build settings
 markdown: kramdown

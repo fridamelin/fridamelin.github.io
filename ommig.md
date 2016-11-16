@@ -7,9 +7,12 @@ permalink: /ommig/
 <div id="TextBox">
 <b>Vem är jag?</b>
 <p>Jag heter Frida Melin, jag är 21 år gammal och bor i Nybro.<br>
- I Nybro bor jag tillsammans med min sambo och vår katt, Simba.
- Jag är en människa som älskar att ha många bollar i luften samtidigt.
- Har jag inte det, så skaffar jag mig det. </p>
+ Där bor jag tillsammans med min sambo och vår katt, Simba.
+ Jag är en människa som gärna vill ha någonting att pyssla med hela tiden.
+
+ Just nu studerar jag till webbprogrammerare på Linnéuniversitetet 
+ samt jobbar på Actic/Nybro simhall, på förskola och i Nybro simklubb. 
+ </p>
  
  
  <b>Mina intressen:</b>

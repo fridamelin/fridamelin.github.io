@@ -8,7 +8,7 @@ permalink: /ommig/
 <b>Vem är jag?</b>
 <p>Jag heter Frida Melin, jag är 21 år gammal och bor i Nybro.<br>
  Där bor jag tillsammans med min sambo och vår katt, Simba.
- Jag är en människa som gärna vill ha någonting att pyssla med hela tiden.
+ Jag är en människa som gärna vill ha någonting att pyssla med hela tiden. 
 
  Just nu studerar jag till webbprogrammerare på Linnéuniversitetet 
  samt jobbar på Actic/Nybro simhall, på förskola och i Nybro simklubb. 
